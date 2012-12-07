@@ -1,0 +1,30 @@
+{
+  "name": "shelfbox",
+  "fullName": "Integration with shelf box",
+  "version": "0.1.0",
+  "description": "The template should be used to associate configuration settings with a shelf box",
+  "keywords": [
+    "shelfbox"
+   ],
+  "joshfire": {
+    "images": {
+      "small": "marketing/quote.png",
+      "big": "marketing/quotebig.png"
+    },
+    "startfile": "index.html",
+    "datasources": {
+      "main": {
+        "title": "List of quotes",
+        "multiple": true
+      }
+    },
+    "options": {
+      "schema": {
+        "phoneNumber": {
+          "type": "string",
+          "title": "Phone number of the shelf box"
+        }
+      }
+    }
+  }
+}
