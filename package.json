@@ -1,7 +1,7 @@
 {
   "name": "shelfbox",
   "fullName": "Integration with shelf box",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The template should be used to associate configuration settings with a shelf box",
   "keywords": [
     "shelfbox"
